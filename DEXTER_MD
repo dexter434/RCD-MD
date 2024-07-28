@@ -4,4 +4,4 @@ WORKDIR /root/status
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY DEXTER 
+# POWERD BY GHOST KING 
